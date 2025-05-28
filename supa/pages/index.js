@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { createClient } from '@supabase/supabase-js'
 
 const supabase = createClient(
-  'https://bvktlnlojilbinlsbkyhm.supabase.co',
+  'https://bvkttnllojiinblskghw.supabase.co',
   'TU_CLAVE_PUBLICA' // ⚠️ Cambiala por seguridad si la subiste pública
 )
 
